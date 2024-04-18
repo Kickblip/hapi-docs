@@ -3,7 +3,7 @@ layout: default
 title: Fetch
 nav_order: 3
 has_children: true
-permalink: /hapi-docs/docs/fetch
+permalink: /docs/fetch
 ---
 
 # Fetch Platform

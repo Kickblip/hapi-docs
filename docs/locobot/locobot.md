@@ -3,7 +3,7 @@ layout: default
 title: LoCoBot
 nav_order: 1
 has_children: true
-permalink: /hapi-docs/docs/locobot
+permalink: /docs/locobot
 ---
 
 # LoCoBot Platform
