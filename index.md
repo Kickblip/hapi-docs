@@ -6,8 +6,14 @@ nav_order: 1
 
 # Human-Aware Planning and Interaction Lab
 
-[Get started now](/docs/locobot){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+Internal documentation pages for everything related to the HAPI Lab's robot platforms.
+
+[Get started with LoCoBot](/docs/locobot){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Get started with Fetch](/docs/fetch){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
+**_Have something you want to add?_** Either open a pull request in our [documentation repository](https://github.com/kickblip/hapi-docs) or contact Wyatt (wyatth@colostate.edu) with a markdown file/to be added as a contributor.
+{: .note }
 
 ---
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+We use Robot Operating System (ROS) for both of our robot platforms in HAPI. Fetch packages are developed with ROS 1 Melodic and the LoCoBot packages are currently being developed with ROS 2 Galactic.
