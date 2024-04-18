@@ -1,8 +1,28 @@
 title: HAPI Docs
 description: Internal documentation for the CSU Human-Aware Planning and Interaction (HAPI) Lab
 theme: just-the-docs
+repository: kickblip/hapidocs
 
-url: https://kickblip.github.io/hapidocs
+url: https://kickblip.github.io/hapi-docs
 
 aux_links: # remove if you don't want this link to appear on your pages
-  Template Repository: https://github.com/kickblip/hapidocs
+  Documentation Repository: https://github.com/kickblip/hapi-docs
+
+aux_links_new_tab: true
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
