@@ -9,6 +9,8 @@ has_children: true
 
 Fetch Robotics research edition standard model with a 7 DOF arm, Primesense 3D depth sensor, and 2D laser.
 
+**Useful External Links**
+
 - [Main documentation for Fetch](http://docs.fetchrobotics.com/)
 - [MoveIt Tutorials](http://docs.ros.org/en/melodic/api/moveit_tutorials/html/index.html)
 
